@@ -1,5 +1,5 @@
 # flask_template
-Flask template to create flask apps fast.
+Flask template to create flask apps faster.
 
 ## Instalation
 Install virtualenv `pip install virtualenv`
